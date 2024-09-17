@@ -35,7 +35,7 @@ After the sorting finishes, your files will be organized into multiple new folde
 
 You will also be prompted to exit the program (y/n).
 
-To check your new sorted directory, you can run an command like this:
+To check your new sorted directory, you can run a command like this:
 ```
 ls -lR
 ```
