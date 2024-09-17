@@ -28,8 +28,8 @@ bash file-sorter.sh
 You will be prompted to enter the directory path (relative to the current directory) you want to sort.
 
 Then, enter the way you want your files to be sorted:
-- \[1\] Extension
-- \[2\] General Type
+- \[1\] By Extension
+- \[2\] By General Type
 
 After the sorting finishes, your files will be organized into multiple new folders.
 
